@@ -36,8 +36,8 @@
 </p>
 
 <div align="center" display="inline-block">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-vming&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api?username=dev-vming&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-vming&layout=compact" height="180em">
+    <img src="https://github-readme-stats.vercel.app/api?username=dev-vming&show_icons=true" height="180em">
 </div>
 <br>
 
