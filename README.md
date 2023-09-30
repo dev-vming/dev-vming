@@ -31,6 +31,9 @@
 	<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" />
 </p>
 <br>
+<p align="center">
+    <strong>✔ Github Stats ✔</strong><br>
+</p>
 
 <div align="center" display="inline-block">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-vming&layout=compact">
@@ -38,4 +41,4 @@
 </div>
 <br>
 
-<img src='https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=300&section=footer'/>
+<img src='https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=200&section=footer'/>
