@@ -19,6 +19,8 @@
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
 	<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white" />
+	<img src="https://img.shields.io/badge/typescript-262627?style=flat&logo=typescript&logoColor=white" />
+	<img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
 </p>
 
 <br>
@@ -29,6 +31,7 @@
 <p align="center" display="inline-block">
 	<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
 	<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" />
+	<img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white" />
 </p>
 <br>
 <p align="center">
