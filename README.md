@@ -5,7 +5,7 @@
 <p align="center">
     <strong>✨ Introducing ✨</strong><br>
     안녕하세요! 데브밍입니다!<br>
-    프론트와 백엔드 모두 관심을 가지고 공부중입니다!<br>
+    프론트에 관심을 가지고 공부중입니다!<br>
 </p>
 
 <br>
