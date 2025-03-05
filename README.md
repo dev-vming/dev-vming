@@ -2,33 +2,40 @@
 
 <br>
 
-<p align="center">
-    <strong>📝 Studying 📝</strong><br>
-</p>
-
-<p align="center" display="inline-block">
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
+## 🚀 Tech Stack
+- **Frontend**
+  <p display="inline-block">
+  	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
 	<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white" />
-	<img src="https://img.shields.io/badge/typescript-262627?style=flat&logo=typescript&logoColor=white" />
-</p>
+	<img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
+ 	<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+  	<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white" />
+   </p>
 
-<br>
-<p align="center">
-    <strong>🛠 Tools 🛠</strong><br>
-</p>
-
-<p align="center" display="inline-block">
+- **Tools**
+  <p display="inline-block">
+  	<img src="https://img.shields.io/badge/amazons3-569A31?style=flat&logo=amazons3&logoColor=white" />
+	<img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 	<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" />
 	<img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white" />
 	<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" />
-</p>
-<br>
-<p align="center">
-    <strong>✔ Github Stats ✔</strong><br>
-</p>
+   </p>
 
+<br>
+
+## 🌱 Currently Learning
+- **Frontend**
+  <p display="inline-block">
+	<img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
+   </p>
+- **Tools**
+  <p display="inline-block">
+	<img src="https://img.shields.io/badge/firebase-DD2C00?style=flat&logo=firebase&logoColor=white" />
+   </p>
+
+<br>
+
+## ✔ Github Stats
 <div align="center" display="inline-block">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-vming&layout=compact" height="180em">
     <img src="https://github-readme-stats.vercel.app/api?username=dev-vming&show_icons=true" height="180em">
