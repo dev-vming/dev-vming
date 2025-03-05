@@ -1,8 +1,20 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=200&section=header&text=Welcome&fontSize=90" />
 
+
+## 👋 Hello, I'm MinJeong!
+### 🖥️ Frontend Developer | Passionate Learner   
+
 <br>
 
-## 🚀 Tech Stack
+## 🚀 My Approach  
+- **배우고 적용하는 개발자**: 새로운 기술과 패턴을 적극적으로 익히고 적용해 나갑니다.   
+- **클린 코드 & 유지보수성**: 읽기 쉽고 확장 가능한 코드를 지향하며, 구조적으로 고민하는 습관을 기릅니다.
+- **성장 지향적 태도**: 지속적인 학습과 자기 관리로 더 나은 개발자가 되기 위해 노력합니다.  
+
+<br>
+
+
+## 🛠️ Tech Stack
 - **Frontend**
   <p display="inline-block">
   	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
@@ -14,6 +26,7 @@
 
 - **Tools**
   <p display="inline-block">
+	<img src="https://img.shields.io/badge/vite-646CFF?style=flat&logo=vite&logoColor=white" />
   	<img src="https://img.shields.io/badge/amazons3-569A31?style=flat&logo=amazons3&logoColor=white" />
 	<img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 	<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" />
