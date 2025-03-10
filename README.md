@@ -37,14 +37,19 @@
 <br>
 
 ## 🌱 Currently Learning
-- **Frontend**
   <p display="inline-block">
-	<img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
-   </p>
-- **Tools**
-  <p display="inline-block">
+	  <img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+	  <img src="https://img.shields.io/badge/recoil-3578E5?style=flat&logo=recoil&logoColor=white" />
+	  <img src="https://img.shields.io/badge/reactquery-FF4154?style=flat&logo=reactquery&logoColor=white" />
+	  <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+	  <img src="https://img.shields.io/badge/prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
+	  <img src="https://img.shields.io/badge/supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
+	  <img src="https://img.shields.io/badge/vercel-000000?style=flat&logo=vercel&logoColor=white" />
 	<img src="https://img.shields.io/badge/firebase-DD2C00?style=flat&logo=firebase&logoColor=white" />
-   </p>
+ 	
+	  
+  </p>
+
 
 <br>
 
