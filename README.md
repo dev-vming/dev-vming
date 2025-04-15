@@ -28,6 +28,7 @@
   <p display="inline-block">
 	<img src="https://img.shields.io/badge/vite-646CFF?style=flat&logo=vite&logoColor=white" />
   	<img src="https://img.shields.io/badge/amazons3-569A31?style=flat&logo=amazons3&logoColor=white" />
+	<img src="https://img.shields.io/badge/firebase-DD2C00?style=flat&logo=firebase&logoColor=white" />
 	<img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 	<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" />
 	<img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white" />
@@ -45,9 +46,8 @@
 	  <img src="https://img.shields.io/badge/prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
 	  <img src="https://img.shields.io/badge/supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
 	  <img src="https://img.shields.io/badge/vercel-000000?style=flat&logo=vercel&logoColor=white" />
-	<img src="https://img.shields.io/badge/firebase-DD2C00?style=flat&logo=firebase&logoColor=white" />
- 	
-	  
+	  <img src="https://img.shields.io/badge/shadcnui-000000?style=flat&logo=shadcnui&logoColor=white" />
+	  <img src="https://img.shields.io/badge/lucide-F56565?style=flat&logo=lucide&logoColor=white" />
   </p>
 
 
