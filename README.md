@@ -40,6 +40,7 @@
 ## 🌱 Currently Learning
   <p display="inline-block">
 	  <img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+	  <img src="https://img.shields.io/badge/zustand-FF6A00?style=flat&logo=zustand&logoColor=white" />
 	  <img src="https://img.shields.io/badge/recoil-3578E5?style=flat&logo=recoil&logoColor=white" />
 	  <img src="https://img.shields.io/badge/reactquery-FF4154?style=flat&logo=reactquery&logoColor=white" />
 	  <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
