@@ -48,7 +48,6 @@
 	  <img src="https://img.shields.io/badge/supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
 	  <img src="https://img.shields.io/badge/vercel-000000?style=flat&logo=vercel&logoColor=white" />
 	  <img src="https://img.shields.io/badge/shadcnui-000000?style=flat&logo=shadcnui&logoColor=white" />
-	  <img src="https://img.shields.io/badge/lucide-F56565?style=flat&logo=lucide&logoColor=white" />
 	  <img src="https://img.shields.io/badge/three.js-000000?style=flat&logo=threedotjs&logoColor=white" />
   </p>
 
