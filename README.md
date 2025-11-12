@@ -49,6 +49,8 @@
 	  <img src="https://img.shields.io/badge/vercel-000000?style=flat&logo=vercel&logoColor=white" />
 	  <img src="https://img.shields.io/badge/shadcnui-000000?style=flat&logo=shadcnui&logoColor=white" />
 	  <img src="https://img.shields.io/badge/three.js-000000?style=flat&logo=threedotjs&logoColor=white" />
+	  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
+	  <img src="https://img.shields.io/badge/pinia-FFD859?style=flat&logo=pinia&logoColor=white" />
   </p>
 
 
