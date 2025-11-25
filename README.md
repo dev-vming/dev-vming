@@ -57,11 +57,4 @@
 
 <br>
 
-## ✔ Github Stats
-<div align="center" display="inline-block">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-vming&layout=compact" height="180em">
-    <img src="https://github-readme-stats.vercel.app/api?username=dev-vming&show_icons=true" height="180em">
-</div>
-<br>
-
 <img src='https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=200&section=footer'/>
