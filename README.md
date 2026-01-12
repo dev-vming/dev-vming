@@ -22,6 +22,8 @@
 	<img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
  	<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
   	<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white" />
+	<img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
+	<img src="https://img.shields.io/badge/pinia-FFD859?style=flat&logo=pinia&logoColor=white" />
    </p>
 
 - **Tools**
@@ -50,8 +52,6 @@
 	  <img src="https://img.shields.io/badge/shadcnui-000000?style=flat&logo=shadcnui&logoColor=white" />
 	  <img src="https://img.shields.io/badge/three.js-000000?style=flat&logo=threedotjs&logoColor=white" />
 	  <br/>
-	  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
-	  <img src="https://img.shields.io/badge/pinia-FFD859?style=flat&logo=pinia&logoColor=white" />
   </p>
 
 
