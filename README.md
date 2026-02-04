@@ -1,6 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=200&section=header&text=Welcome&fontSize=90" />
-
-
 ## 👋 Hello, I'm MinJeong!
 ### 🖥️ Frontend Developer | Passionate Learner   
 
@@ -56,5 +53,3 @@
 
 
 <br>
-
-<img src='https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=200&section=footer'/>
