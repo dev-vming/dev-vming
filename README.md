@@ -17,6 +17,7 @@
   	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
 	<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white" />
 	<img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
+	<img src="https://img.shields.io/badge/zustand-FF6A00?style=flat&logo=zustand&logoColor=white" />
  	<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
   	<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white" />
 	<img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
@@ -26,6 +27,7 @@
 - **Tools**
   <p display="inline-block">
 	<img src="https://img.shields.io/badge/vite-646CFF?style=flat&logo=vite&logoColor=white" />
+	<img src="https://img.shields.io/badge/vercel-000000?style=flat&logo=vercel&logoColor=white" />
   	<img src="https://img.shields.io/badge/amazons3-569A31?style=flat&logo=amazons3&logoColor=white" />
 	<img src="https://img.shields.io/badge/firebase-DD2C00?style=flat&logo=firebase&logoColor=white" />
 	<img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white" />
@@ -37,13 +39,11 @@
 ## 🌱 Currently Learning
   <p display="inline-block">
 	  <img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-	  <img src="https://img.shields.io/badge/zustand-FF6A00?style=flat&logo=zustand&logoColor=white" />
 	  <img src="https://img.shields.io/badge/recoil-3578E5?style=flat&logo=recoil&logoColor=white" />
 	  <img src="https://img.shields.io/badge/reactquery-FF4154?style=flat&logo=reactquery&logoColor=white" />
 	  <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
 	  <img src="https://img.shields.io/badge/prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
 	  <img src="https://img.shields.io/badge/supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
-	  <img src="https://img.shields.io/badge/vercel-000000?style=flat&logo=vercel&logoColor=white" />
 	  <img src="https://img.shields.io/badge/shadcnui-000000?style=flat&logo=shadcnui&logoColor=white" />
 	  <img src="https://img.shields.io/badge/three.js-000000?style=flat&logo=threedotjs&logoColor=white" />
 	  <br/>
